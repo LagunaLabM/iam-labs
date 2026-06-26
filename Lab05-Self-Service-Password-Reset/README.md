@@ -109,4 +109,3 @@ After successful identity verification, the user was able to reset the password 
 ## Outcome
 
 This lab demonstrates how Microsoft Entra Self-Service Password Reset (SSPR) reduces help desk dependency by allowing authorized users to securely verify their identity and reset their own passwords using Microsoft Authenticator.
-```
