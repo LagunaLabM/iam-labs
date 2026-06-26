@@ -1,6 +1,5 @@
 
 
-```markdown
 # Lab05 - Self-Service Password Reset (SSPR)
 
 ## Objective
