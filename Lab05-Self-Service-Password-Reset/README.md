@@ -44,7 +44,7 @@ A Security Group was created to limit the SSPR deployment to a controlled set of
 
 The test user was added to the Security Group targeted by the SSPR configuration.
 
-![Add user to security group](images/03-add-user-to-security-group.png)
+![Add user to security group](images/03-add-lab-user-to-security-group.png)
 
 ---
 
