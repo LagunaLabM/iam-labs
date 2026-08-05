@@ -160,6 +160,6 @@ Rather than assigning users directly to security groups or individual resources,
 
 This lab required enabling the **Microsoft Entra ID Governance Add-on for Microsoft Entra ID P2 (Trial)** because several Entitlement Management features are not included in the standard Microsoft Entra ID P2 license.
 The trial license was enabled exclusively for laboratory purposes in order to evaluate Entitlement Management capabilities.
-Without this add-on, advanced Entitlement Management capabilities such as Access Packages are unavailable.
+Without this add-on, advanced Entitlement Management features such as Access Packages are unavailable.
 
 ![Microsoft Entra ID Governance Trial](images/99-identity-governance-trial-enabled.png)
