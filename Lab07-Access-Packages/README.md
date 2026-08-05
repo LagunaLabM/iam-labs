@@ -2,7 +2,7 @@
 
 ## Objective
 
-This lab demonstrates how to implement entitlement management using Microsoft Entra ID Entitlement Management and Access Packages..
+This lab demonstrates how to implement entitlement management using Microsoft Entra ID Entitlement Management and Access Packages.
 
 A Finance catalog was created to centralize application resources, publish an Access Package, and assign controlled access to authorized users. The configuration includes resource organization, request policy, assignment lifecycle, and administrative assignment, following the Principle of Least Privilege.
 
