@@ -71,7 +71,7 @@ The existing security group **Finance-App-Users** was added as a managed resourc
 
 ### 4. Create the Access Package
 
-A new Access Package named **Finance Application Access** was created inside the Finance catalog. This package will be used to manage access to the application through Identity Governance.
+A new Access Package named **Finance Application Access** was created inside the Finance catalog. This package will be used to manage access to the Finance application through Microsoft Entra Entitlement Management.
 
 ![04-create-access-package](images/04-create-access-package.png)
 
