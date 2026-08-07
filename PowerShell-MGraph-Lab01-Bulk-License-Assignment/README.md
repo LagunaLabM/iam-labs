@@ -1,4 +1,4 @@
-# PowerShell-MGraph-Lab01 - Bulk License Assignment
+# PowerShell + Microsoft Graph Lab 01 - Bulk License Assignment
 
 ## Overview
 
