@@ -37,7 +37,9 @@ The required scopes provide permission to retrieve users and assign Microsoft En
 
 The available license subscriptions are retrieved to identify the Microsoft Entra ID P2 SKU required for the bulk assignment process.
 
-The SKU ID is later used by the PowerShell script to assign licenses programmatically.
+The Get-MgSubscribedSku cmdlet is used to retrieve the available subscription SKUs and identify the Microsoft Entra ID P2 license.
+
+The identified SKU ID is then used by the PowerShell script to assign the license programmatically.
 
 ![Step 2](images/step2-retrieve-available-license-subscriptions.png)
 
