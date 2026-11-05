@@ -2,7 +2,7 @@
 
 > **Joiner, Mover and Leaver automation with Microsoft Entra ID**
 >
-> This is an educational IAM lab demonstrating how a simulated HR CSV input can drive common identity lifecycle operations using PowerShell and Microsoft Graph.
+> This is an IAM lab demonstrating how a simulated HR CSV input can drive common identity lifecycle operations using PowerShell and Microsoft Graph.
 
 ## Overview
 
