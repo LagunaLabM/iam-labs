@@ -1,0 +1,2 @@
+EmployeeId,FirstName,LastName,UserPrincipalName,Department,JobTitle,UsageLocation,ManagerUPN
+EMP-TEST-001,Sample,User,sample.user@yourtenant.onmicrosoft.com,Sales,Sales Representative,ES,sales.manager@yourtenant.onmicrosoft.com
