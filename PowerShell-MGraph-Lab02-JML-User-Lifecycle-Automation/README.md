@@ -1,6 +1,6 @@
 # PowerShell + Microsoft Graph: JML User Lifecycle Automation
 
-> **Lab 02 – Joiner, Mover and Leaver automation with Microsoft Entra ID**
+> **Joiner, Mover and Leaver automation with Microsoft Entra ID**
 >
 > This is an educational IAM lab demonstrating how a simulated HR CSV input can drive common identity lifecycle operations using PowerShell and Microsoft Graph.
 
